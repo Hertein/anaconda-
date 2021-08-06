@@ -28,3 +28,4 @@ use-mirrors =true
 mirrors =http://pypi.mirrors.ustc.edu.cn/simple/
 trusted-host = pypi.mirrors.ustc.edu.cn
 
+#修改jupyternotebook默认打开位置：https://blog.csdn.net/qq_35860352/article/details/87802433
