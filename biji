@@ -1,0 +1,4 @@
+conda create -n xxx python=3.x
+
+activate xxx
+pip isntall xxx==
